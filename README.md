@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Hospital patient appointments management system created using Next.js. Patients can register in the system and make appointments. Administrators can view all appointments and reschedule or cancel appointments in the admin dashboard.
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![1sc1](https://github.com/user-attachments/assets/e230138a-8ce7-4cf1-a7b1-aeb9df8dd1d5)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![1sc2](https://github.com/user-attachments/assets/9f7ff86d-e650-433e-afe8-5ca97d93484b)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![1sc3](https://github.com/user-attachments/assets/0a6d3dba-eb35-4d96-9b22-76514f93a151)
+![1sc4](https://github.com/user-attachments/assets/285e7e60-e4d3-41ed-a599-2a21724370b1)
+![1sc6](https://github.com/user-attachments/assets/bda26dd6-f21b-4661-86ed-f23bc3bb1b6f)
+![sc7](https://github.com/user-attachments/assets/5bcb2fb4-319f-414f-b42d-3b7f2a1d9306)
+![sc8](https://github.com/user-attachments/assets/503e2de8-b00a-47fd-95dc-decf5543bfe3)
+![admin dash](https://github.com/user-attachments/assets/d5d0f9c1-cd3e-4791-97d5-f0eb47e30263)
+![admin dash1](https://github.com/user-attachments/assets/b0c07443-c5c9-4a82-a7fa-2b04ea3e50f7)
+![sheduleadmin dash](https://github.com/user-attachments/assets/996a3842-8a65-4310-a2fb-38dd41ae8115)
+![canceladmindash](https://github.com/user-attachments/assets/9988c7da-4c2a-4959-911b-8a0e292e1eb7)
